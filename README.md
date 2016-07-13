@@ -8,7 +8,13 @@ Double click will highlight the word, double clicking again will unhighlight the
 Each time it will use a different color to highlight the words.
 
 ctrl+r  will remove all the highlights
+
+
+
 ctrl+n  will goto next highlight
+
+
+
 ctrl+p  will goto previous highlight
 
 
