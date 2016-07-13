@@ -7,7 +7,7 @@ To use the plugin, just download the two files, and point to the file path like 
 Double click will highlight the word, double clicking again will unhighlight the word again.
 Each time it will use a different color to highlight the words.
 
-ctrl+r  will remove all the highlights
+alt+r  will remove all the highlights
 
 
 
