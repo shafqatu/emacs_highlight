@@ -1,7 +1,7 @@
 # emacs_highlight
 I copied highlight-symbol code from Nikolaj Schumacher and then write some simple functions to build my plugin. Feel free to use or update it in any way you want.
 
-To use the plugin, just download the two files, and point to the file path like below
+To use the plugin, just download the two files, and point to the file path like below in your .emacs or .init file 
 
 
 
